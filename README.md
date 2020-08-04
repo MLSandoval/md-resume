@@ -66,6 +66,7 @@ To apply the latest front and back end web technologies as I contribute to an ag
 - Assemlbed complex audio and visual arrangements for spaces large and small
 - Arranged sound amplification setups for bands, DJs, auctioneers, and orators
 - Inventoried, maintained, and rented out gear to subcontractors
+- Setup and managed video live stream events with the arrival of Covid-19
 
 <ins></ins>
 
