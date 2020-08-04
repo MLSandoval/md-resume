@@ -1,8 +1,8 @@
 # Michael Sandoval
-[michaelsandoval.pro](https://michaelsandoval.pro) • [github.com/mlsandoval](https://github.com/mlsandoval/resume/tree/master) • [michaelsandoval.resume@gmail.com](mailto:michaelsandoval.resume@gmail.com)
+[michaelsandoval.pro](http://michaelsandoval.pro) • [github.com/mlsandoval](https://github.com/mlsandoval/resume/tree/master) • [michaelsandoval.resume@gmail.com](mailto:michaelsandoval.resume@gmail.com)
 
 ## Objective
-To apply the latest front and back end web technologies as I contribute to an agile team focused on developing responsive web applications, while learning as much as I can on the way.
+To apply the latest front and back end web technologies as I contribute to an agile team focused on developing responsive web applications, while learning as much as I may from my coworkers.
 
 ## Projects
 
@@ -32,7 +32,7 @@ To apply the latest front and back end web technologies as I contribute to an ag
  - __jQuery__, __CSS3__, and __HTML5__ combine for dynamic styling and functionality
  - Utilized __cURL__ calls via a __PHP__ proxy to actively fetch NPS __API__ data and hide __API__ keys
  - Focus on __cross-browser__ compatibility and __responsive__ design
- -
+ - Applied __procedural__ programming principles to manage app functionality
 
 <ins></ins>
 
@@ -48,24 +48,24 @@ To apply the latest front and back end web technologies as I contribute to an ag
 :-----:|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:
 __JavaScript__|__ReactJS__|jQuery|Node.js|JSON|git/Github|Chrome Dev Tools
 __HTML5__|Express|__Redux__|PHP|REST API|Babel|Figma
-__CSS3__|Bootstrap 4|React Router|Docker|MySQL|npm|VS Code
-| | |Socket.IO|Linux (Ubuntu)|RESTPostgreSQL|Webpack|Bash CLI
+__CSS3__|__Bootstrap 4__|React Router|Docker|MySQL|npm|VS Code
+| | |Socket.IO|Linux (Ubuntu)|PostgreSQL|Webpack|Bash CLI
 | | | | |Fetch|Postman| |
 
-> Note: Skills & technology in __bold__ indicate higher level of proviciency.
+> Note: Skills & technology in __bold__ indicate higher level of proficiency.
 
 # Personal Activities
-  Backpacking
-     - > Thru-Hike, Out-and-back trails
-     - > Angel’s Landing, Zion National Park
-     - > Lost Palms Oasis, Joshua Tree National Park
+  __Backpacking__
+  - Thru-Hike, Out-and-back trails
+  - Angel’s Landing, Zion National Park
+  - Lost Palms Oasis, Joshua Tree National Park
  
-  Video Games
-     - > RPG - Dark Souls, Elder Scrolls
-     - > FPS - Counter-Strike, Halo
+  __Video Games__
+    - RPG - Dark Souls, Elder Scrolls
+    - FPS - Counter-Strike, Halo
 
-     - Cooking
-     - > Apricot Pie, Potato Salad, Homemade Tomato Sauce
+  __Cooking__
+    - Apricot Pie, Potato Salad, Homemade Tomato Sauce
 
 
 <ins></ins>
