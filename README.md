@@ -6,56 +6,38 @@ To apply the latest front and back end web technologies as I contribute to an ag
 
 ## Projects
 
-### Ultralite Gear ([Live Site](https://ultralite.herokuapp.com))
-> Shopping cart for ultralight backpack gear. React app built using Redux, Express, and PostgreSQL. 
+### Ultralite Gear ([Live Site](https://ultralite.herokuapp.com)) ([Github](https://github.com/MLSandoval/ul-backpacks-store))
+> Shopping cart app for ultralight backpack gear.
 
-- Delivered mock to feature responsive UI components for Yara platform to enable payments in 2 Yara products with internationalization supporting 7 languages across 5 countries processing 2 types of payment methods leveraging Zuora & Adyen.
-- Developed field boundary creation component with editable field boundary populated from GeoJSON GIS dataset.
-- Collaborated with API engineers & design to evaluate implementation trade-offs for delivery and maintainability of features across the stack.
-- Led the process to define sprint planning, organization, & releases for team of 4 engineers with asynchronous standups.
-- Reviewed domestic & international team code submissions while collaborating on best coding practices.
-- Researched & evaluated emerging technologies for relevance in current project requirements & scope regularly.
-- Presented platform concepts to internal teams & conducted brownbag sessions on technologies & patterns.
-- Created Docker image to migrate backend service previously running on AWS EC2.
-- Created integration tests for platform payments utilizing __Cypress__.
-- Developed features leveraging __Next.js__, __React (with Hooks)__, __Google Maps__, __GraphQL__, __HTML__, __CSS__ via __styled-components__, & __Express.js__.
+- Combined __React.js__ with __Bootstrap 4__ for an efficient and completely responsive design
+- Hosted on __Heroku__ using their __Node.js__ buildpack on a Hobby Dyno
+- Constructed __RDBMS__ using __Node.js Express__ server linking to a __PostgreSQL__ DB
+- Built custom __PL/pgSQL__ functions to assist in managing cart/user/product data
+- Combined __Redux__ and __React Router__ to manage state and front end routing
+- Designed __responsive__ styling and layout with __Bootstrap 4__
+- Implemented __Webpack__ to bundle modules and compress code
 
-### Frontend Software Engineer ([OpsClarity](http://www.opsclarity.com) acquired by [Lightbend](http://www.lightbend.com)) San Francisco, 2015 - 2018
-> Opsclarity provided a performance monitoring & visualization solution that was aquired by Lightbend for [Lightbend Console](https://developer.lightbend.com/docs/console/current/) which provides out-of-the-box observability for Scala Lightbend Platform applications running on kubernetes.
+### Remogy ([Github](https://github.com/MLSandoval/remote_learning_app))
+> Multi-User Remote Education web app designed to increase interaction and engagement during live-streamed class sessions.
 
-- Delivered mock to feature signup flow integrating account & session API alongside administrative account management & dashboard provisioning.
-- Diagnosed & debugged root cause of client side resource issues by optimizing algorithm performance for scale.
-- Architected & documented client unit test framework in Jasmine with Promises, contributing publicly to [remap-istanbul](https://github.com/SitePen/remap-istanbul) enabling coverage reporting with Grunt.
-- Collaborated with design & API teams to evaluate implementation tradeoffs for delivery & maintainability across stack.
-- Created complex DOM mouse handling behavior across overlayed elements.
-- Reviewed domestic & international team code submissions, onboarding engineers with internal client design patterns while collaborating on best coding practices.
-- Developed UI components leveraging __AngularJS (2/4/5, 1.x)__, __d3__, __HTML5__, __CSS3__ via __Sass__, & __ui-router__.
+- Incorporated __Node.js__ with __Socket.io__ for real-time event updates across all active clients
+- Designed __MySQL RDBMS__ managing question, answer, video, and user data
+- Built with __React.js__ front-end using various __npm__ packages
+- Developed with __agile__ methodology to organize and execute work in 2-day sprints
+- Employed __Twitch.tv API__ to feed live streams and chat functionality into app
 
-### Software Engineer (LessThan3 now [Maestro](http://maestro.io)) San Francisco, 2013 - 2014
-> Maestro provides a SasS solution focused on creating interactive live streams for businesses
+### National Park Memory Match ([Live Site](https://natl-park-match.herokuapp.com)) ([Github](https://github.com/MLSandoval/memory-match))
+> National Park themed card-flip matching game.
 
- - Developed client-side interfaces using __CoffeeScript__, __Backbone.js__, __Stylus__, __Teacup__, __History API__, & __jQuery__.
- - Leveraged third party API's including Instagram, Twitter, Youtube, Soundcloud, & Facebook.
- - Built back-end interfaces using Node.js, Express, MongoDB, & Firebase.
- - Reviewed code via Github pull requests with projects managed in Github issues.
- - Contributed to documentation & tutorials for developers on in house framework coding practices.
- - Created admin dashboard tools for a live-event CMS used by Ultra Music Festival, EDC, HARD Summer, & Insomniac Events among others.
+ - __jQuery__, __CSS3__, and __HTML5__ combine for dynamic styling and functionality
+ - Utilized __cURL__ calls via a __PHP__ proxy to actively fetch NPS __API__ data and hide __API__ keys
+ - Focus on __cross-browser__ compatibility and __responsive__ design
+ -
 
 <ins></ins>
 
-### Software Engineer ([ColorQuick](http://www.colorquick.com)), 2011 - 2013
-> ColorQuick provides software and services to streamline and automate printing & distribution of documents.
- - Developed web interfaces in __HTML__/__CSS__/__PHP__/__Python__/__JavaScript__ using __Twitter Bootstrap__ & __jQuery__.
- - Adopted REST API paradigm for interfacing in real time with legacy applications over HTTP.
- - Managed servers running mySQL, nginx, & git on CentOS Linux.
-
-### Freelance Web Developer, 2009 - 2011
- - Developed client websites in __HTML__/__CSS__/__JavaScript__ leveraging existing templates.
- - Customized WordPress installation as site & blog with content administration.
- - Configured on page SEO & enabled tracking via Google Analytics.
-
 # Education
- - __B.A. Anthropology__, Univeristy of California, Los Angeles, Summa Cum Laude. 2012
+ - __B.A. Anthropology__, Univeristy of California, Los Angeles, Summa Cum Laude.
 
 # Skills & Technology
 **Languages**|**Frameworks**|**Style/Markup**|**Libraries**|**Servers**|**Data**|**Tools**
@@ -73,7 +55,7 @@ Python| MVC|Material-UI|jQuery & plugins| |MongoDB|Cypress
 > Note: Skills & technology in __bold__ indicate higher level of proviciency.
 
 # Activities
- - Open Source Contibuter ([Mattermost Webapp](https://github.com/mattermost/mattermost-webapp)), April 2020
+ - Open Source Contibutor ([Mattermost Webapp](https://github.com/mattermost/mattermost-webapp)), April 2020
  - ReactJS Meetup, 2015 - 2020
  - Node.js Meetup, 2013 - 2020
  - Angular.js Meetup, 2015 - 2018
