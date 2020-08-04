@@ -1,5 +1,5 @@
 # Michael Sandoval
-[michaelsandoval.pro](http://michaelsandoval.pro) • [github.com/mlsandoval](https://github.com/mlsandoval/resume/tree/master) • [michaelsandoval.resume@gmail.com](mailto:michaelsandoval.resume@gmail.com)
+[michaelsandoval.pro](http://michaelsandoval.pro) • [github.com/mlsandoval](https://github.com/mlsandoval/) • [michaelsandoval.resume@gmail.com](mailto:michaelsandoval.resume@gmail.com)
 
 ## Objective
 To apply the latest front and back end web technologies as I contribute to an agile team focused on developing responsive web applications, while learning as much as I may from my coworkers.
@@ -61,11 +61,11 @@ __CSS3__|__Bootstrap 4__|React Router|Docker|MySQL|npm|VS Code
   - Lost Palms Oasis, Joshua Tree National Park
  
   __Video Games__
-    - RPG - Dark Souls, Elder Scrolls
-    - FPS - Counter-Strike, Halo
+  - RPG - Dark Souls, Elder Scrolls
+  - FPS - Counter-Strike, Halo
 
   __Cooking__
-    - Apricot Pie, Potato Salad, Homemade Tomato Sauce
+  - Apricot Pie, Potato Salad, Homemade Tomato Sauce
 
 
 <ins></ins>
