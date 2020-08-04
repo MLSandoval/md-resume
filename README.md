@@ -2,12 +2,12 @@
 [michaelsandoval.pro](https://michaelsandoval.pro) • [github.com/mlsandoval](https://github.com/mlsandoval/resume/tree/master) • [michaelsandoval.resume@gmail.com](mailto:michaelsandoval.resume@gmail.com)
 
 ## Objective
-To learn contribute to an agile team focused on developing responsive web applications utilizing the latest JavaScript, HTML, & CSS technologies.
+To apply the latest front and back end web technologies as I contribute to an agile team focused on developing responsive web applications, while learning as much as I can on the way.
 
-## Experience
+## Projects
 
-### Senior Frontend Software Engineer ([Yara, Inc.](http://www.yara.com/)) San Francisco, 2018 - 2020
-> Yara Digital Farming is a division that develops software to empower farmers & agriculture to optimize farming practices to increase yields, crop quality, & income in a sustainable way.
+### Ultralite Gear ([Live Site](https://ultralite.herokuapp.com))
+> Shopping cart for ultralight backpack gear. React app built using Redux, Express, and PostgreSQL. 
 
 - Delivered mock to feature responsive UI components for Yara platform to enable payments in 2 Yara products with internationalization supporting 7 languages across 5 countries processing 2 types of payment methods leveraging Zuora & Adyen.
 - Developed field boundary creation component with editable field boundary populated from GeoJSON GIS dataset.
@@ -55,7 +55,7 @@ To learn contribute to an agile team focused on developing responsive web applic
  - Configured on page SEO & enabled tracking via Google Analytics.
 
 # Education
- - __B.S. Computer Engineering__, Pennsylvania State University, Dean's List, 2009
+ - __B.A. Anthropology__, Univeristy of California, Los Angeles, Summa Cum Laude. 2012
 
 # Skills & Technology
 **Languages**|**Frameworks**|**Style/Markup**|**Libraries**|**Servers**|**Data**|**Tools**
