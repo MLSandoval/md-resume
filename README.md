@@ -14,8 +14,6 @@ To apply the latest front and back end web technologies as I contribute to an ag
 - Constructed __RDBMS__ using __Node.js Express__ server linking to a __PostgreSQL__ DB
 - Built custom __PL/pgSQL__ functions to assist in managing cart/user/product data
 - Combined __Redux__ and __React Router__ to manage state and front end routing
-- Designed __responsive__ styling and layout with __Bootstrap 4__
-- Implemented __Webpack__ to bundle modules and compress code
 
 ### Remogy ([Github](https://github.com/MLSandoval/remote_learning_app))
 > Multi-User Remote Education web app designed to increase interaction and engagement during live-streamed class sessions.
@@ -25,6 +23,8 @@ To apply the latest front and back end web technologies as I contribute to an ag
 - Built with __React.js__ front-end using various __npm__ packages
 - Developed with __agile__ methodology to organize and execute work in 2-day sprints
 - Employed __Twitch.tv API__ to feed live streams and chat functionality into app
+- Designed __responsive__ styling and layout with __Bootstrap 4__
+- Implemented __Webpack__ to bundle modules and compress code
 
 ### National Park Memory Match ([Live Site](https://natl-park-match.herokuapp.com)) ([Github](https://github.com/MLSandoval/memory-match))
 > National Park themed card-flip matching game.
@@ -38,34 +38,42 @@ To apply the latest front and back end web technologies as I contribute to an ag
 
 # Education
  - __B.A. Anthropology__, Univeristy of California, Los Angeles, Summa Cum Laude.
+ - > Cultural and Evolutionary Principles
+
+ - __LearningFuze__, Irvine, CA
+ - > Accelerated Web Development Program, 800+ hours over 3 months of web development under supervision of senior developers
 
 # Skills & Technology
-**Languages**|**Frameworks**|**Style/Markup**|**Libraries**|**Servers**|**Data**|**Tools**
+**Languages**|**Frameworks**|**Libraries**|**Servers**|**Data**|**Tools**|**cont.**
 :-----:|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:
-__JavaScript__|__ReactJS__|__styled-components__|Google Maps|Node.js|JSON|git
-__HTML5__|__Next.js__|__JSX__|axios|Docker|GraphQL|npm & yarn
-__CSS3__|Express|PostCSS|react-intl|Linux(Debian)|AJAX|webpack
-TypeScript|AngularJS (2/4/5)|Sass|Underscore.js|FreeBSD|REST|babel
-CoffeeScript|Angular (1.x)|Stylus|Redux|nginx|WebSocket|jest
-Python| MVC|Material-UI|jQuery & plugins| |MongoDB|Cypress
-|  ||Fontello|Sortable| |SQL|CircleCI
-| | | |Socket.IO| | |Storybook
-| | | | | | |vim & emacs
+__JavaScript__|__ReactJS__|jQuery|Node.js|JSON|git/Github|Chrome Dev Tools
+__HTML5__|Express|__Redux__|PHP|REST API|Babel|Figma
+__CSS3__|Bootstrap 4|React Router|Docker|MySQL|npm|VS Code
+| | |Socket.IO|Linux (Ubuntu)|RESTPostgreSQL|Webpack|Bash CLI
+| | | | |Fetch|Postman| |
 
 > Note: Skills & technology in __bold__ indicate higher level of proviciency.
 
-# Activities
- - Open Source Contibutor ([Mattermost Webapp](https://github.com/mattermost/mattermost-webapp)), April 2020
- - ReactJS Meetup, 2015 - 2020
- - Node.js Meetup, 2013 - 2020
- - Angular.js Meetup, 2015 - 2018
+# Personal Activities
+ - Backpacking
+ - > Thru-Hike, Out-and-back trails
+ - > Angel’s Landing, Zion National Park
+ - > Lost Palms Oasis, Joshua Tree National Park
+ 
+ - Video Games
+ - > RPG - Dark Souls, Elder Scrolls
+ - > FPS - Counter-Strike, Halo
+
+ - Cooking
+ - > Apricot Pie, Potato Salad, Homemade Tomato Sauce
+
 
 <ins></ins>
 
 The MIT License (MIT)
 =====================
 
-Copyright © `2020` `Eliot Baker`
+Copyright © `2020` `Michael Sandoval`
 
 Permission is hereby granted, free of charge, to any person
 obtaining a copy of this resume and associated documentation
