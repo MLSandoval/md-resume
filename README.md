@@ -38,10 +38,10 @@ To apply the latest front and back end web technologies as I contribute to an ag
 
 # Education
  - __B.A. Anthropology__, Univeristy of California, Los Angeles, Summa Cum Laude.
- - > Cultural and Evolutionary Principles
+  > Cultural and Evolutionary Principles
 
  - __LearningFuze__, Irvine, CA
- - > Accelerated Web Development Program, 800+ hours over 3 months of web development under supervision of senior developers
+  > Accelerated Web Development Program, 800+ hours over 3 months of web development under supervision of senior developers
 
 # Skills & Technology
 **Languages**|**Frameworks**|**Libraries**|**Servers**|**Data**|**Tools**|**cont.**
@@ -55,12 +55,12 @@ __CSS3__|Bootstrap 4|React Router|Docker|MySQL|npm|VS Code
 > Note: Skills & technology in __bold__ indicate higher level of proviciency.
 
 # Personal Activities
- - Backpacking
+  Backpacking
  - > Thru-Hike, Out-and-back trails
  - > Angel’s Landing, Zion National Park
  - > Lost Palms Oasis, Joshua Tree National Park
  
- - Video Games
+  Video Games
  - > RPG - Dark Souls, Elder Scrolls
  - > FPS - Counter-Strike, Halo
 
