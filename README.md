@@ -36,6 +36,31 @@ To apply the latest front and back end web technologies as I contribute to an ag
 
 <ins></ins>
 
+## Professional Experience
+
+### Client Operations Associate ([Maestro.io](https://info.maestro.io/)) Los Angeles, 2017 - 2018
+> Tech Startup SasS providing tools and solutions for enterprise live stream entities
+
+- Formulated and implemented strategies for streaming entities of all types
+- Consulted over 20 clients in growing, analyzing, and monetizing audiences with tools offered by Maestro's platform
+- Collaborated with dev team to identify, log, and address bugs/user requests
+- Trained clients/company candidates in use of platform and kept them abreast of new feature releases
+- Managed relations with high value accounts vital to company success
+- Created tutorial videos and assets for Zendesk using __Adobe Premiere/Photoshop__
+
+### Film/Television Production (Mutiple Studios) Los Angeles, 2013 - 2017
+> Worked in production offices of a number of shows for studios including NBC/Universal, Amazon, Netflix, Warner Brothers, and Disney
+
+- Promoted twice, from entry level (Production Assistant) into management
+(Production Office Coordinator)
+- Directed staff workloads to meet strict deadlines and trained support staff
+- Acquired and monitored equipment critical to show’s success
+- Facilitated information flow across departments via email and hard copy distribution
+- Closely assisted executive-level producers with all day-to-day tasks
+- Maintained strong working relationships with studio contacts, managed cast, and delivered critical legal documentation
+
+<ins></ins>
+
 # Education
  - __B.A. Anthropology__, Univeristy of California, Los Angeles, Summa Cum Laude.
       > Cultural and Evolutionary Principles
