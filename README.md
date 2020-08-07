@@ -59,7 +59,7 @@ To apply the latest front and back end web technologies as I contribute to an ag
 - Closely assisted executive-level producers with all day-to-day tasks
 - Maintained strong working relationships with studio contacts, managed cast, and delivered critical legal documentation
 
-### Soul Shelter Productions (Mutiple Studios) Los Angeles, 2013 - Present
+### Soul Shelter Productions Los Angeles, 2013 - Present
 > Performed contract work as an A/V Technician
 
 - Procured gear necessary for events ranging from weddings to corporate presentations and banquets
