@@ -39,7 +39,7 @@ To apply the latest front and back end web technologies as I contribute to an ag
 ## Professional Experience
 
 ### Client Operations Associate ([Maestro.io](https://info.maestro.io/)) Los Angeles, 2017 - 2018
-> Tech Startup SasS providing tools and solutions for enterprise live stream entities
+> Tech Startup SaaS providing tools and solutions for enterprise live stream entities
 
 - Formulated and implemented strategies for streaming entities of all types
 - Consulted over 20 clients in growing, analyzing, and monetizing audiences with tools offered by Maestro's platform
@@ -63,7 +63,7 @@ To apply the latest front and back end web technologies as I contribute to an ag
 > Worked on a per contract basis as an A/V Technician
 
 - Procured gear necessary for events ranging from weddings to corporate presentations and banquets
-- Assemlbed complex audio and visual arrangements for spaces large and small
+- Assembled complex audio and visual arrangements for spaces large and small
 - Arranged sound amplification setups for bands, DJs, auctioneers, and orators
 - Inventoried, maintained, and rented out gear to subcontractors
 - Setup and managed video live stream events with the arrival of Covid-19
