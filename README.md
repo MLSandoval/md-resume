@@ -42,6 +42,7 @@ To apply the latest front and back end web technologies as I contribute to an ag
 > Tech Startup SaaS providing tools and solutions for enterprise live stream entities
 
 - Formulated and implemented strategies for streaming entities of all types
+- Specialized in managing and consulting esports clients
 - Consulted over 20 clients in growing, analyzing, and monetizing audiences with tools offered by Maestro's platform
 - Collaborated with dev team to identify, log, and address bugs/user requests
 - Trained clients/company candidates in use of platform and kept them abreast of new feature releases
