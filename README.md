@@ -38,6 +38,14 @@ To apply the latest front and back end web technologies as I contribute to an ag
 
 ## Professional Experience
 
+### Full Stack Developer (Soul Shelter Entertainment) Remote,  Aug. 2020 - Present
+> Small entertainment production company providing audio and visual solutions for public and private events
+
+- Contracted position to update content from antiquated site into mobile-responsive single-page app using __React__ and __Bootstrap 4__
+- Constructed consultation request email system using __Twilio SendGrid API__
+- Created lead generation list in a __PostgreSQL__ database, exportable to CSV for company manipulate in Excel
+- Hosted using __Heroku__ running PSQL add-on instance on a standard-1x dyno
+
 ### Client Operations Associate ([Maestro.io](https://info.maestro.io/)) Los Angeles, 2017 - 2018
 > Tech Startup SaaS providing tools and solutions for enterprise live stream entities
 
