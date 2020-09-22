@@ -34,7 +34,6 @@ To apply the latest front and back end web technologies as I contribute to an ag
  - Focus on __cross-browser__ compatibility and __responsive__ design
  - Applied __procedural__ programming principles to manage app functionality
 
-<ins></ins>
 
 ## Professional Experience
 
@@ -77,7 +76,6 @@ To apply the latest front and back end web technologies as I contribute to an ag
 - Inventoried, maintained, and rented out gear to subcontractors
 - Setup and managed video live stream events with the arrival of Covid-19
 
-<ins></ins>
 
 # Education
  - __B.A. Anthropology__, Univeristy of California, Los Angeles, Summa Cum Laude.
