@@ -42,7 +42,7 @@ To apply the latest front and back end web technologies as I contribute to an ag
 
 - Contracted position to update content from antiquated site into mobile-responsive single-page app using __React__ and __Bootstrap 4__
 - Constructed consultation request email system using __Twilio SendGrid API__
-- Created lead generation list in a __PostgreSQL__ database, exportable to CSV for company manipulate in Excel
+- Created lead generation list in a __PostgreSQL__ database, exportable to CSV for company to manipulate in Excel
 - Hosted using __Heroku__ running PSQL add-on instance on a standard-1x dyno
 
 ### Client Operations Associate ([Maestro.io](https://info.maestro.io/)) Los Angeles, 2017 - 2018
